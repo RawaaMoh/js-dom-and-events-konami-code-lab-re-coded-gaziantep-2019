@@ -14,9 +14,11 @@ let index = 0;
         alert("Hurray!");
 
         index = 0;
-      }
+      }//end of if hurray
       
-    } else {
+    }//end of if 
+    
+    else {
       index = 0;
     }
     
